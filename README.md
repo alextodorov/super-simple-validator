@@ -1,2 +1,2 @@
-# super-simple-validator
+# Super Simple Validator
 PHP validator library
